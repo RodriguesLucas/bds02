@@ -3,7 +3,7 @@
 
 Event-City é uma aplicação Backend, desenvolvida para avaliação no decorrer de um Bootcamp Spring, curso realizado pela [DevSuperior](https://learn.devsuperior.com/).
 
-A aplicação consiste em um TDD(Test-Driven Development), onde foi necessário implementar alguns end points como criar, visualizar e excluir para a City e um end point para atualizar o Event. Essas implementações foram necessárias para passar nos testes feitos antes da implentação do programa.
+A aplicação consiste em um TDD(Test-Driven Development), onde foi necessário implementar alguns end points como criar, visualizar e excluir para a City e um end point para atualizar o Event. Essas implementações foram necessárias para passar nos testes feitos antes da implementação do programa.
 
 ![Modelo Conceitual](https://github.com/RodriguesLucas/bds02/blob/main/ASSETS/ModeloConceitual.png)
 # Tecnologias utilizadas
