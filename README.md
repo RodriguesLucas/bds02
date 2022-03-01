@@ -22,8 +22,8 @@ Pré-requisito: Java 11
 # Clonar o repositório
 git clone https://github.com/RodriguesLucas/bds02
 
-# Entrar na pasta do projeto back end
-cd backend
+# Entrar na pasta do projeto
+cd bds02
 
 # Executar o projeto
 ./mvnw spring-boot:run
